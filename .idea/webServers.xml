@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7c99b48c-d756-4d7c-90e8-fd283220b873" name="node01">
+        <fileTransfer rootFolder="/home/pi/projects" accessType="SFTP" host="node01.fritz.box" port="22" sshConfigId="4d502ff2-58ed-489d-a443-db7907632eb5" sshConfig="pi@node01.fritz.box:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" keepAliveTimeout="30000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

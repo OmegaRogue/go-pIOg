@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="node01" deleteMissingItems="true" filePermissions="493" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="node01">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/go-pIOg" local="$PROJECT_DIR$/" web="/" />
+            <mapping deploy="/go-pIOg/bin" local="$PROJECT_DIR$/bin" web="/bin" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
